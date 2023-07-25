@@ -1,4 +1,4 @@
-h1>Hello! I'm Santiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello! I'm Santiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h2>Full-Stack Developer 🎨</h2>
 
 ### About Me

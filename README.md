@@ -2,7 +2,7 @@
 <h2>Full-Stack Developer 🎨</h2>
 
 ### About Me
-- I am 22 years old and I am from Medellin,Colombia.
+- I am 23 years old and I am from Medellin,Colombia.
 - I am a MERN and PERN full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 ### Technologies
